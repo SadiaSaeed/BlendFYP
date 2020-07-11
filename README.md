@@ -1,0 +1,2 @@
+# BlendFYP
+Blend is a digital learning platform that is faciliatted by the effective combination of different modes of delivery, models of teaching and styles of learning. It has aimed to combine particular forms of teaching with technology in order to provide a one-top solution to the haphazard lives of students. The basic idea is to cater the class room problems faced by both, students and instructors.
